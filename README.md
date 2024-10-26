@@ -3,7 +3,7 @@
 🌱 I am currently learning Android Studio (Jetpack Compose) and Web Development.
 
 📫 How to Contact me: <br/>
-tarkanyildiz600@gmail.com <br/>
+tarkanyildiz600@gmail.com  or  www.linkedin.com/in/tarkanmecityildiz <br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
