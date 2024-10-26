@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Tarkan. <br/>
+My name is Tarkan. <br/> <br/>
 🌱 I am currently learning Android Studio (Jetpack Compose) and Web Development.
 <!--
 **TarkanIsHere/TarkanIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
