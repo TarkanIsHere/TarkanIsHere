@@ -1,6 +1,6 @@
 ## Hi There 👋
 🙋‍♂️ My name is Tarkan. <br/> <br/>
-🌱 I am currently learning Algorithm Questions
+🌱 I am currently learning Algorithm Questions <br/> <br>
 🌐 My own website: https://tarkanmecityildiz.me/
 
 📫 How to Contact me: <br/>
