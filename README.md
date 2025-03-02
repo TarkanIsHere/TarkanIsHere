@@ -1,5 +1,5 @@
 ## Hi There 👋
-🙋‍♂️ My name is Tarkan. <br/> <br/>
+🙋‍♂️ My name is Tarkan. I am currently computer engineering student at Ege University <br/> <br/>
 🌱 I am currently learning Algorithm Questions <br/> <br>
 🌐 My own website: https://tarkanmecityildiz.me/
 
